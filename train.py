@@ -1,5 +1,4 @@
 from sklearn.ensemble import RandomForestClassifier
-from sklearn.datasets import make_classification
 import pickle
 import subprocess as sp
 from collections import defaultdict
